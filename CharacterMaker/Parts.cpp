@@ -1,7 +1,7 @@
 #include "CM.h"
 
 
-static vector<vector<string>> info(5);
+vector<vector<string>> info(5);
 
 
 //追加機能用
@@ -27,7 +27,7 @@ static vector<vector<string>> info(5);
 */
 
 void charaBuild(){
-    static character myChara;
+    character myChara;
     myChara = getProperties(myChara);
     cout << "キャラクターの名前を決定してください" << endl;
     cin >> myChara.name;
