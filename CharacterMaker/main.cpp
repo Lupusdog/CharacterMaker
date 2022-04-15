@@ -1,14 +1,11 @@
-//
-//  main.cpp
-//  CharacterMaker
-//
-//  Created by 清水日向 on 2022/04/13.
-//
+#include "CM.h"
 
-#include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main(){
+    //追加機能用
+    /*while(true){
+    int choice;
+    choice = selection();*/
+    listProperties();
+    charaBuild();
     return 0;
 }
