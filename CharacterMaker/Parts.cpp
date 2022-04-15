@@ -1,7 +1,7 @@
 #include "CM.h"
 
 
-vector<vector<string>> info(5);
+static vector<vector<string>> info(5);
 
 
 //追加機能用
