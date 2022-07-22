@@ -5,7 +5,9 @@
 #include <vector>
 #include <stdio.h>
 #include <time.h>
+#include <filesystem>
 using namespace std;
+namespace fs=std::filesystem;
 
 struct character {
     string name;

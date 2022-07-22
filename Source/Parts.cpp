@@ -31,7 +31,7 @@ void charaBuild(){
     myChara = getProperties(myChara);
     cout << "キャラクターの名前を決定してください" << endl;
     cin >> myChara.name;
-    cout << "名前:" << myChara.name << endl;
+    cout << endl << "名前:" << myChara.name << endl;
     cout << "種族:" << myChara.race << endl;
     cout << "職業:" << myChara.job << endl;
     cout << "特徴:" << myChara.feature << endl;
