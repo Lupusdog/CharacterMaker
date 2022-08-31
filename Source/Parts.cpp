@@ -3,29 +3,6 @@
 
 vector<vector<string>> info(5);
 
-
-//追加機能用
-/*int selection(){
-    cout << "キャラクターメイカーにようこそ！" << endl
-    << "要件に合わせて数字を入力してください" << endl
-    << "キャラクターの作成:１" << endl
-    << "キャラクターの参照:2" << endl
-    << "プログラムの終了:3" << endl;
-    while(true){
-        int number = 0;
-        cin >> number;
-        if(number == 1 || number == 2 || number == 3){
-            return number;
-        }
-        else{
-            cout << "不適切な入力がされています" << endl << "再度入力をお願いします" << endl;
-            cin.clear();
-            cin.ignore(250,'\n');
-        }
-    }
-}
-*/
-
 void charaBuild(){
     character myChara;
     myChara = getProperties(myChara);
