@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+CharacterMaker_Release in CharacterMaker, no dependencies
+CharacterMaker in CharacterMaker, no dependencies

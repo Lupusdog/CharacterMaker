@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A0C4D2C1-93AE-4231-A09A-7C431B67588A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0C4D2C1-93AE-4231-A09A-7C431B67588A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CharacterMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CharacterMaker copy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CharacterMaker_Release</string>
+			<key>timeStartedRecording</key>
+			<real>680181475.95808995</real>
+			<key>timeStoppedRecording</key>
+			<real>680181476.00158095</real>
+			<key>title</key>
+			<string>Build CharacterMaker_Release</string>
+			<key>uniqueIdentifier</key>
+			<string>A0C4D2C1-93AE-4231-A09A-7C431B67588A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

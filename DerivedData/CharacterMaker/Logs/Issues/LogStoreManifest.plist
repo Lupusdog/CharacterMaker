@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>759A73DB-FD97-427B-8935-876832C59450</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>759A73DB-FD97-427B-8935-876832C59450.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>CharacterMaker_Release-attqxhwezqmvakcytuvejpmfhefh</string>
+			<key>timeStartedRecording</key>
+			<real>680181452.56077397</real>
+			<key>timeStoppedRecording</key>
+			<real>680181454.27206898</real>
+			<key>title</key>
+			<string>Build target CharacterMaker_Release</string>
+			<key>uniqueIdentifier</key>
+			<string>759A73DB-FD97-427B-8935-876832C59450</string>
+		</dict>
+		<key>A427B8A8-DDB9-41DE-AC45-C117B6FE3A84</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>A427B8A8-DDB9-41DE-AC45-C117B6FE3A84.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>CharacterMaker-attqxhwezqmvakcytuvejpmfhefh</string>
+			<key>timeStartedRecording</key>
+			<real>677077751.38888502</real>
+			<key>timeStoppedRecording</key>
+			<real>677077752.23710001</real>
+			<key>title</key>
+			<string>Build target CharacterMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>A427B8A8-DDB9-41DE-AC45-C117B6FE3A84</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

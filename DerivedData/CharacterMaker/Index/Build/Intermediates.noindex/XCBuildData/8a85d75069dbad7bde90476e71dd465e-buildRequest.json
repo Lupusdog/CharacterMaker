@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "febb378e2d442ca29da738cce58b9ad40a16e621575d953e736899f68c176a9d"
+    }
+  ],
+  "containerPath" : "/Users/shimizu_hinata/C++/CharacterMaker/CharacterMaker.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData/CharacterMaker/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData/CharacterMaker/Index/Build/Products",
+      "derivedDataPath" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData/CharacterMaker/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData/CharacterMaker/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData/CharacterMaker/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/shimizu_hinata/C++/CharacterMaker/DerivedData/CharacterMaker/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
